@@ -1,0 +1,41 @@
+body {
+  background: rgb(247, 83, 83);
+  background: linear-gradient(
+    90deg,
+    rgba(247, 83, 83, 0.6250875350140056) 0%,
+    rgba(249, 177, 177, 1) 50%,
+    rgba(255, 16, 0, 0.6250875350140056) 100%
+  );
+}
+
+.header-img {
+  width: 22rem;
+  height: 12rem;
+}
+.card {
+  width: 22rem;
+  overflow: hidden;
+}
+/* .card:hover {
+  opacity: 1;
+  scale: 0.8;
+} */
+.card-img-top {
+  width: 25rem;
+  height: 20rem;
+  padding: 1rem;
+}
+.card-second {
+  width: 20rem;
+  height: 19rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.card-second li {
+  line-height: 1.5rem;
+  margin-top: 2.5rem;
+}
+
+ul {
+  list-style-type: none;
+}
