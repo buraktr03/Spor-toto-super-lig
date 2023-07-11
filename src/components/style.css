@@ -8,6 +8,9 @@ body {
   );
 }
 
+.header {
+  background-color: antiquewhite;
+}
 .header-img {
   width: 22rem;
   height: 12rem;

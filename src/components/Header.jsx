@@ -3,7 +3,7 @@ import "./style.css"
 
 const Header = ({setSearch}) => {
   return (
-    <div className="text-center sticky-top">
+    <div className="header text-center sticky-top pb-3">
       <img src={img} className="header-img" alt="" />
       <h1 className="m-3">2022-2023 Türkiye Spor Toto Süper Ligi</h1>
       <input
